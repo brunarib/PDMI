@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Split the Bill</string>
+    <string name="a_pagar">Payable</string>
+    <string name="taxa_servico">Tip</string>
+    <string name="pessoas">People</string>
+    <string name="compartilhar">Share</string>
+    <string name="pessoas_qtd">Amount of people</string>
+    <string name="valor_conta">Total Account Amount</string>
+    <string name="valor_servico">Total Value of the Service</string>
+    <string name="valor_pessoa">Value per person</string>
+    <string name="add_pessoa">Add Person</string>
+    <string name="sub_pessoa">Remove Person</string>
+    <string name="add_porcentagem">Add Tip</string>
+    <string name="sub_porcentagem">Remove Tip</string>
+    <string name="area_servico">Percentage of Service Fee</string>
+</resources>

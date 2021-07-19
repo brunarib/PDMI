@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Vamos Rachar</string>
+    <string name="a_pagar">A pagar</string>
+    <string name="taxa_servico">Taxa de Serviço</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="pessoas">Pessoas</string>
+
+    <string name="pessoas_qtd">Quantidade de Pessoas</string>
+    <string name="valor_conta">Valor total da Conta</string>
+    <string name="valor_servico">Valor total do Serviço</string>
+    <string name="valor_pessoa">Valor por Pessoa</string>
+
+    <string name="add_pessoa">Adicionar Pessoa</string>
+    <string name="sub_pessoa">Remover Pessoa</string>
+
+
+    <string name="area_servico">Porcentagem da Taxa de Serviço</string>
+    <string name="add_porcentagem">Adicionar Porcentagem</string>
+    <string name="sub_porcentagem">Remover Porcentagem</string>
+
+
+</resources>
